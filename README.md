@@ -1,6 +1,10 @@
-<img align="right" src="img/automake.png">
+automake creates a Makefile
+
+<img src="img/automake.png">
+
+<img src="img/automake-help.png">
+
 install:
 ```
 make
 ```
-<img src="img/automake-help.png">
