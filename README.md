@@ -7,4 +7,5 @@ automake creates a Makefile
 install:
 ```
 make
+sudo make install
 ```
