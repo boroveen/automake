@@ -1,2 +1,2 @@
 <img align="right" src="img/automake.png">
-<img align="right" src="img/automake-help.png">
+<img src="img/automake-help.png">
